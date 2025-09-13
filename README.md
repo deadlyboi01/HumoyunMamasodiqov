@@ -1,4 +1,4 @@
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
+
 
 <h1 align="center">Salom 👋, Men Humoyun</h1>
 <h3 align="center">Oʻzbekistondan bo‘lgan Full-Stack dasturchi</h3>
