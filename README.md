@@ -37,16 +37,6 @@
 
 ---
 
-## 📊 GitHub Statistikam
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xumoyun731&show_icons=true&theme=radical" alt="Humoyun's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xumoyun731&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xumoyun731&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
