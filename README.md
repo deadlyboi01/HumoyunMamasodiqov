@@ -1,42 +1,69 @@
+<h1 align="center">👋 Salom, Men Humoyun Akbarov</h1>
+<h3 align="center">O'zbekistondan Full-Stack Dasturchi</h3>
 
-
-<h1 align="center">Salom 👋, Men Humoyun</h1>
-<h3 align="center">Oʻzbekistondan bo‘lgan Full-Stack dasturchi</h3>
-
-
-- 💬 Mendan so‘rashingiz mumkin: **HTML, CSS, JavaScript, Python, Django, Telegram Bot**
-- 📫 Menga yozish uchun: [**humoyun2009uzb@gmail.com**](mailto:humoyun2009uzb@gmail.com)
-
-
-
-## 🌐 Ijtimoiy tarmoqlar:
-
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/xumoyun731) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/humoyun.731)  
-[![Gmail](https://img.shields.io/badge/humoyunworks@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:humoyun2009uzb@gmail.com) 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22F74A&center=true&vCenter=true&width=500&lines=Web+va+Mobile+Ilovalar;Telegram+Botlar+Yaratish;Backend+va+Frontend+Rivojlantirish" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-# 💻 Texnologiyalar to‘plami:
+## 🚀 Mening Texnologiyalarim
 
-![](https://img.shields.io/badge/HTML5-informatsion?color=%23E34F26&style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-informatsion?color=%231572B6&style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-informatsion?color=%23F7DF1E&style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Bootstrap-informatsion?color=%23563D7C&style=flat&logo=bootstrap&logoColor=white)
-</br>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![](https://img.shields.io/badge/Python-informatsion?color=3670A0&style=flat&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/Django-informatsion?style=flat&logo=django&color=%23092E20)
-![](https://img.shields.io/badge/Django-REST-informatsion?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![](https://img.shields.io/badge/FastAPI-informatsion?color=005571&style=flat&logo=fastapi)
-</br>
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-![](https://img.shields.io/badge/PostgreSQL-informatsion?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/SQLite-informatsion?style=flat&logo=SQLite&color=003B57)
-![Git](https://img.shields.io/badge/Git-%23E34F26.svg?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-informatsion?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Docker-informatsion?style=flat&logo=docker&logoColor=white&color=0db7ed)
-</br>
+### Ma'lumotlar Bazasi
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Boshqa Vositalar
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Statistikam
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xumoyun731&show_icons=true&theme=radical" alt="Humoyun's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xumoyun731&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xumoyun731&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌐 Ijtimoiy Tarmoqlar
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xumoyun731)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/humoyun.731)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humoyun2009uzb@gmail.com)
+
+---
 
 
-![Snake](https://profile-readme-generator.com/assets/snake.svg)
+---
+
+## 📫 Bog'lanish
+
+- **Email:** [humoyun2009uzb@gmail.com](mailto:humoyun2009uzb@gmail.com)
+- **Telegram:** [@xumoyun731](https://t.me/xumoyun731)
+- **Ish Joyi:** Full-Stack Developer @ [Kompaniya Nomi]
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</p>
