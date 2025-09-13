@@ -1,4 +1,7 @@
-<h1 align="center">👋 Salom, Men Humoyun Akbarov</h1>
+<h1 align="center">👋  Assalomu alaykum 
+  
+  Men Humoyun Mamasodiqov</h1>
+  
 <h3 align="center">O'zbekistondan Full-Stack Dasturchi</h3>
 
 <p align="center">
