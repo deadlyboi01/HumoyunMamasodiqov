@@ -46,7 +46,7 @@
 
 | Loyiha Nomi | Texnologiyalar | Tavsif | Link |
 |-------------|---------------|--------|------|
-| Uzum market Sayt | Django, python, PostgreSQL | To'liq funksionallikli online do'kon | [Ko'rish]([https://github.com/xumoyun731/](https://github.com/HumoyunMamasodiqov/uzum-market)) |
+| Uzum market Sayt | Django, Python, PostgreSQL | To'liq funksionallikli online do'kon | [Ko'rish](https://github.com/HumoyunMamasodiqov/uzum-market) |
 
 </div>
 
@@ -57,11 +57,11 @@
 <!-- GitHub stats -->
 <div align="center">
   
-![Humoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xumoyun731&show_icons=true&theme=dark&locale=uz)
+![Humoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumoyunMamasodiqov&show_icons=true&theme=dark&locale=uz)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumoyun731&layout=compact&theme=dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumoyunMamasodiqov&layout=compact&theme=dark&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=xumoyun731&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=HumoyunMamasodiqov&theme=dark)
 
 </div>
 
@@ -80,7 +80,7 @@
   <a href="mailto:humoyun2009uzb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/HumoyunMamasodiqov/uzum-market">
+  <a href="https://github.com/HumoyunMamasodiqov">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -91,18 +91,17 @@
 
 - **Email:** [humoyun2009uzb@gmail.com](mailto:humoyun2009uzb@gmail.com)
 - **Telegram:** [@xumoyun731](https://t.me/xumoyun731)
-- **GitHub:** [xumoyun731](https://github.com/HumoyunMamasodiqov/uzum-market)
+- **GitHub:** [HumoyunMamasodiqov](https://github.com/HumoyunMamasodiqov)
 
 ---
 
 <!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/xumoyun731/xumoyun731/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HumoyunMamasodiqov/HumoyunMamasodiqov/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <!-- GitHub trophy -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xumoyun731&theme=onedark&row=2&column=4" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=HumoyunMamasodiqov&theme=onedark&row=2&column=4" alt="GitHub Trophy" />
   </a>
 </p>
